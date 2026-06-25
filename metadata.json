@@ -1,0 +1,6 @@
+{
+  "name": "Beat Up",
+  "description": "A high-fidelity, voice-narrated AI task planner with rhythm-based timeline tracking and Plan A, B, and C fallback modes to defeat deadline failures.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
